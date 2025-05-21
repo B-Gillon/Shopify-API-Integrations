@@ -1,0 +1,89 @@
+{
+    "products": [
+        {
+            "id": 8821686337754,
+            "title": "Beach Ball",
+            "body_html": "<p>16\" inflatable beach ball, perfect for any occasion!</p>",
+            "vendor": "Ball Co.",
+            "product_type": "Toys",
+            "created_at": "2025-03-24T10:36:31-04:00",
+            "handle": "beach-ball",
+            "updated_at": "2025-04-28T09:46:08-04:00",
+            "published_at": "2025-03-24T10:36:31-04:00",
+            "template_suffix": null,
+            "published_scope": "global",
+            "tags": "beach ball",
+            "status": "active",
+            "admin_graphql_api_id": "gid://shopify/Product/8821686337754",
+            "variants": [
+                {
+                    "id": 46321538793690,
+                    "product_id": 8821686337754,
+                    "title": "Beach Ball",
+                    "price": "8.99",
+                    "position": 1,
+                    "inventory_policy": "deny",
+                    "compare_at_price": "9.99",
+                    "option1": "Beach Ball",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-03-24T10:36:31-04:00",
+                    "updated_at": "2025-04-28T09:46:08-04:00",
+                    "taxable": true,
+                    "barcode": "UPC00000000001",
+                    "fulfillment_service": "manual",
+                    "grams": 300,
+                    "inventory_management": "shopify",
+                    "requires_shipping": true,
+                    "sku": "beachball",
+                    "weight": 300,
+                    "weight_unit": "g",
+                    "inventory_item_id": 48421491474650,
+                    "inventory_quantity": 100,
+                    "old_inventory_quantity": 100,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/46321538793690",
+                    "image_id": null
+                }
+            ],
+            "options": [
+                {
+                    "id": 11198934614234,
+                    "product_id": 8821686337754,
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Beach Ball"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": 45897241821402,
+                    "alt": null,
+                    "position": 1,
+                    "product_id": 8821686337754,
+                    "created_at": "2025-03-24T10:39:28-04:00",
+                    "updated_at": "2025-03-24T10:39:29-04:00",
+                    "admin_graphql_api_id": "gid://shopify/MediaImage/37591163699418",
+                    "width": 280,
+                    "height": 276,
+                    "src": "https://cdn.shopify.com/s/files/1/0752/4653/4874/files/BeachBall.png?v=1742827169",
+                    "variant_ids": []
+                }
+            ],
+            "image": {
+                "id": 45897241821402,
+                "alt": null,
+                "position": 1,
+                "product_id": 8821686337754,
+                "created_at": "2025-03-24T10:39:28-04:00",
+                "updated_at": "2025-03-24T10:39:29-04:00",
+                "admin_graphql_api_id": "gid://shopify/MediaImage/37591163699418",
+                "width": 280,
+                "height": 276,
+                "src": "https://cdn.shopify.com/s/files/1/0752/4653/4874/files/BeachBall.png?v=1742827169",
+                "variant_ids": []
+            }
+        }
+    ]
+}
