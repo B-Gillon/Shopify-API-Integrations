@@ -1,0 +1,266 @@
+{
+    "products": [
+        {
+            "id": 8821686337754,
+            "title": "Beach Ball",
+            "body_html": "<p>16\" inflatable beach ball, perfect for any occasion!</p>",
+            "vendor": "Ball Co.",
+            "product_type": "Toys",
+            "created_at": "2025-03-24T10:36:31-04:00",
+            "handle": "beach-ball",
+            "updated_at": "2025-04-25T12:55:30-04:00",
+            "published_at": "2025-03-24T10:36:31-04:00",
+            "template_suffix": null,
+            "published_scope": "global",
+            "tags": "beach ball",
+            "status": "active",
+            "admin_graphql_api_id": "gid://shopify/Product/8821686337754",
+            "variants": [
+                {
+                    "id": 46321538793690,
+                    "product_id": 8821686337754,
+                    "title": "Beach Ball",
+                    "price": "7.99",
+                    "position": 1,
+                    "inventory_policy": "deny",
+                    "compare_at_price": "9.99",
+                    "option1": "Beach Ball",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-03-24T10:36:31-04:00",
+                    "updated_at": "2025-04-24T12:46:16-04:00",
+                    "taxable": true,
+                    "barcode": "UPC00000000001",
+                    "fulfillment_service": "manual",
+                    "grams": 300,
+                    "inventory_management": "shopify",
+                    "requires_shipping": true,
+                    "sku": "beachball",
+                    "weight": 300,
+                    "weight_unit": "g",
+                    "inventory_item_id": 48421491474650,
+                    "inventory_quantity": 100,
+                    "old_inventory_quantity": 100,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/46321538793690",
+                    "image_id": null
+                }
+            ],
+            "options": [
+                {
+                    "id": 11198934614234,
+                    "product_id": 8821686337754,
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Beach Ball"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": 45897241821402,
+                    "alt": null,
+                    "position": 1,
+                    "product_id": 8821686337754,
+                    "created_at": "2025-03-24T10:39:28-04:00",
+                    "updated_at": "2025-03-24T10:39:29-04:00",
+                    "admin_graphql_api_id": "gid://shopify/MediaImage/37591163699418",
+                    "width": 280,
+                    "height": 276,
+                    "src": "https://cdn.shopify.com/s/files/1/0752/4653/4874/files/BeachBall.png?v=1742827169",
+                    "variant_ids": []
+                }
+            ],
+            "image": {
+                "id": 45897241821402,
+                "alt": null,
+                "position": 1,
+                "product_id": 8821686337754,
+                "created_at": "2025-03-24T10:39:28-04:00",
+                "updated_at": "2025-03-24T10:39:29-04:00",
+                "admin_graphql_api_id": "gid://shopify/MediaImage/37591163699418",
+                "width": 280,
+                "height": 276,
+                "src": "https://cdn.shopify.com/s/files/1/0752/4653/4874/files/BeachBall.png?v=1742827169",
+                "variant_ids": []
+            }
+        },
+        {
+            "id": 8821887828186,
+            "title": "Beach Towel",
+            "body_html": "<p>Fancy beach towel</p>",
+            "vendor": "Towel Co.",
+            "product_type": "Towels",
+            "created_at": "2025-03-24T14:25:30-04:00",
+            "handle": "beach-towel",
+            "updated_at": "2025-04-25T12:55:30-04:00",
+            "published_at": "2025-03-24T14:25:27-04:00",
+            "template_suffix": null,
+            "published_scope": "global",
+            "tags": "beach towel",
+            "status": "active",
+            "admin_graphql_api_id": "gid://shopify/Product/8821887828186",
+            "variants": [
+                {
+                    "id": 46322090705114,
+                    "product_id": 8821887828186,
+                    "title": "Blue",
+                    "price": "12.99",
+                    "position": 1,
+                    "inventory_policy": "deny",
+                    "compare_at_price": "17.99",
+                    "option1": "Blue",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-03-24T14:25:30-04:00",
+                    "updated_at": "2025-04-24T13:28:01-04:00",
+                    "taxable": true,
+                    "barcode": "UPC00000000002",
+                    "fulfillment_service": "manual",
+                    "grams": 1000,
+                    "inventory_management": "shopify",
+                    "requires_shipping": true,
+                    "sku": "bch-twl-bl",
+                    "weight": 1000,
+                    "weight_unit": "g",
+                    "inventory_item_id": 48422044074202,
+                    "inventory_quantity": 275,
+                    "old_inventory_quantity": 275,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/46322090705114",
+                    "image_id": 45899577032922
+                },
+                {
+                    "id": 46322090737882,
+                    "product_id": 8821887828186,
+                    "title": "Red",
+                    "price": "12.99",
+                    "position": 2,
+                    "inventory_policy": "deny",
+                    "compare_at_price": "17.99",
+                    "option1": "Red",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-03-24T14:25:30-04:00",
+                    "updated_at": "2025-04-24T13:28:02-04:00",
+                    "taxable": true,
+                    "barcode": "UPC00000000003",
+                    "fulfillment_service": "manual",
+                    "grams": 1000,
+                    "inventory_management": "shopify",
+                    "requires_shipping": true,
+                    "sku": "bch-twl-rd",
+                    "weight": 1000,
+                    "weight_unit": "g",
+                    "inventory_item_id": 48422044106970,
+                    "inventory_quantity": 500,
+                    "old_inventory_quantity": 500,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/46322090737882",
+                    "image_id": 45899577131226
+                },
+                {
+                    "id": 46322090770650,
+                    "product_id": 8821887828186,
+                    "title": "Yellow",
+                    "price": "12.99",
+                    "position": 3,
+                    "inventory_policy": "deny",
+                    "compare_at_price": "17.99",
+                    "option1": "Yellow",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-03-24T14:25:30-04:00",
+                    "updated_at": "2025-04-24T13:28:01-04:00",
+                    "taxable": true,
+                    "barcode": "UPC00000000004",
+                    "fulfillment_service": "manual",
+                    "grams": 1000,
+                    "inventory_management": "shopify",
+                    "requires_shipping": true,
+                    "sku": "bch-twl-yl",
+                    "weight": 1000,
+                    "weight_unit": "g",
+                    "inventory_item_id": 48422044139738,
+                    "inventory_quantity": 724,
+                    "old_inventory_quantity": 724,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/46322090770650",
+                    "image_id": 45899577196762
+                }
+            ],
+            "options": [
+                {
+                    "id": 11199152324826,
+                    "product_id": 8821887828186,
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Blue",
+                        "Red",
+                        "Yellow"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": 45899577032922,
+                    "alt": null,
+                    "position": 1,
+                    "product_id": 8821887828186,
+                    "created_at": "2025-03-24T14:25:30-04:00",
+                    "updated_at": "2025-03-24T14:25:30-04:00",
+                    "admin_graphql_api_id": "gid://shopify/MediaImage/37592926716122",
+                    "width": 300,
+                    "height": 184,
+                    "src": "https://cdn.shopify.com/s/files/1/0752/4653/4874/files/Blue_Beach_Towel_7252619a-8adc-439d-92a4-4d080370b29f.png?v=1742840730",
+                    "variant_ids": [
+                        46322090705114
+                    ]
+                },
+                {
+                    "id": 45899577131226,
+                    "alt": null,
+                    "position": 2,
+                    "product_id": 8821887828186,
+                    "created_at": "2025-03-24T14:25:30-04:00",
+                    "updated_at": "2025-03-24T14:25:30-04:00",
+                    "admin_graphql_api_id": "gid://shopify/MediaImage/37592926781658",
+                    "width": 255,
+                    "height": 317,
+                    "src": "https://cdn.shopify.com/s/files/1/0752/4653/4874/files/Red_Beach_Towel_de70ed01-9a84-4f5a-b3d3-7ffc2947df77.png?v=1742840730",
+                    "variant_ids": [
+                        46322090737882
+                    ]
+                },
+                {
+                    "id": 45899577196762,
+                    "alt": null,
+                    "position": 3,
+                    "product_id": 8821887828186,
+                    "created_at": "2025-03-24T14:25:30-04:00",
+                    "updated_at": "2025-03-24T14:25:30-04:00",
+                    "admin_graphql_api_id": "gid://shopify/MediaImage/37592926847194",
+                    "width": 306,
+                    "height": 423,
+                    "src": "https://cdn.shopify.com/s/files/1/0752/4653/4874/files/Yellow_Beach_Towel_1344cba9-892d-4e78-887b-2813000880fc.png?v=1742840730",
+                    "variant_ids": [
+                        46322090770650
+                    ]
+                }
+            ],
+            "image": {
+                "id": 45899577032922,
+                "alt": null,
+                "position": 1,
+                "product_id": 8821887828186,
+                "created_at": "2025-03-24T14:25:30-04:00",
+                "updated_at": "2025-03-24T14:25:30-04:00",
+                "admin_graphql_api_id": "gid://shopify/MediaImage/37592926716122",
+                "width": 300,
+                "height": 184,
+                "src": "https://cdn.shopify.com/s/files/1/0752/4653/4874/files/Blue_Beach_Towel_7252619a-8adc-439d-92a4-4d080370b29f.png?v=1742840730",
+                "variant_ids": [
+                    46322090705114
+                ]
+            }
+        }
+    ]
+}
