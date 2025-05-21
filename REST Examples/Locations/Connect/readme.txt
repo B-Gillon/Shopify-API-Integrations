@@ -1,0 +1,1 @@
+The purpose here is to associate an item to a specific location (the fulfilling entity) for inventory purposes. If inventory will be maintained for multiple locations, this must be done separately for each.
