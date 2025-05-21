@@ -1,0 +1,613 @@
+{
+    "products": [
+        {
+            "id": 8821686337754,
+            "title": "Beach Ball",
+            "body_html": "<p>16\" inflatable beach ball, perfect for any occasion!</p>",
+            "vendor": "Ball Co.",
+            "product_type": "Toys",
+            "created_at": "2025-03-24T10:36:31-04:00",
+            "handle": "beach-ball",
+            "updated_at": "2025-04-25T12:55:30-04:00",
+            "published_at": "2025-03-24T10:36:31-04:00",
+            "template_suffix": null,
+            "published_scope": "global",
+            "tags": "beach ball",
+            "status": "active",
+            "admin_graphql_api_id": "gid://shopify/Product/8821686337754",
+            "variants": [
+                {
+                    "id": 46321538793690,
+                    "product_id": 8821686337754,
+                    "title": "Beach Ball",
+                    "price": "7.99",
+                    "position": 1,
+                    "inventory_policy": "deny",
+                    "compare_at_price": "9.99",
+                    "option1": "Beach Ball",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-03-24T10:36:31-04:00",
+                    "updated_at": "2025-04-24T12:46:16-04:00",
+                    "taxable": true,
+                    "barcode": "UPC00000000001",
+                    "fulfillment_service": "manual",
+                    "grams": 300,
+                    "inventory_management": "shopify",
+                    "requires_shipping": true,
+                    "sku": "beachball","blue"
+                    "weight": 300,
+                    "weight_unit": "g",
+                    "inventory_item_id": 48421491474650,
+                    "inventory_quantity": 100,
+                    "old_inventory_quantity": 100,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/46321538793690",
+                    "image_id": null
+                }
+            ],
+            "options": [
+                {
+                    "id": 11198934614234,
+                    "product_id": 8821686337754,
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Beach Ball"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": 45897241821402,
+                    "alt": null,
+                    "position": 1,
+                    "product_id": 8821686337754,
+                    "created_at": "2025-03-24T10:39:28-04:00",
+                    "updated_at": "2025-03-24T10:39:29-04:00",
+                    "admin_graphql_api_id": "gid://shopify/MediaImage/37591163699418",
+                    "width": 280,
+                    "height": 276,
+                    "src": "https://cdn.shopify.com/s/files/1/0752/4653/4874/files/BeachBall.png?v=1742827169",
+                    "variant_ids": []
+                }
+            ],
+            "image": {
+                "id": 45897241821402,
+                "alt": null,
+                "position": 1,
+                "product_id": 8821686337754,
+                "created_at": "2025-03-24T10:39:28-04:00",
+                "updated_at": "2025-03-24T10:39:29-04:00",
+                "admin_graphql_api_id": "gid://shopify/MediaImage/37591163699418",
+                "width": 280,
+                "height": 276,
+                "src": "https://cdn.shopify.com/s/files/1/0752/4653/4874/files/BeachBall.png?v=1742827169",
+                "variant_ids": []
+            }
+        },
+        {
+            "id": 8824281727194,
+            "title": "Beach Flip Flops",
+            "body_html": "<p>A wide selection of beautifully curated flip flops for the beach.  They come in many colors!</p>",
+            "vendor": "Flip Flop Co.",
+            "product_type": "",
+            "created_at": "2025-03-27T10:26:19-04:00",
+            "handle": "beach-flip-flops",
+            "updated_at": "2025-04-25T12:55:31-04:00",
+            "published_at": "2025-03-27T10:26:19-04:00",
+            "template_suffix": "",
+            "published_scope": "global",
+            "tags": "Beach Flip Flops",
+            "status": "active",
+            "admin_graphql_api_id": "gid://shopify/Product/8824281727194",
+            "variants": [
+                {
+                    "id": 46329523831002,
+                    "product_id": 8824281727194,
+                    "title": "Orange",
+                    "price": "12.99",
+                    "position": 1,
+                    "inventory_policy": "deny",
+                    "compare_at_price": "16.99",
+                    "option1": "Orange",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-03-27T10:26:20-04:00",
+                    "updated_at": "2025-03-27T10:26:54-04:00",
+                    "taxable": true,
+                    "barcode": "UPC00000000006",
+                    "fulfillment_service": "manual",
+                    "grams": 454,
+                    "inventory_management": "shopify",
+                    "requires_shipping": true,
+                    "sku": "bch-flops-or",
+                    "weight": 1,
+                    "weight_unit": "lb",
+                    "inventory_item_id": 48429594902746,
+                    "inventory_quantity": 0,
+                    "old_inventory_quantity": 0,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/46329523831002",
+                    "image_id": 45957642879194
+                },
+                {
+                    "id": 46329523863770,
+                    "product_id": 8824281727194,
+                    "title": "Green",
+                    "price": "12.99",
+                    "position": 2,
+                    "inventory_policy": "deny",
+                    "compare_at_price": "16.99",
+                    "option1": "Green",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-03-27T10:26:20-04:00",
+                    "updated_at": "2025-03-27T10:27:11-04:00",
+                    "taxable": true,
+                    "barcode": "UPC00000000007",
+                    "fulfillment_service": "manual",
+                    "grams": 454,
+                    "inventory_management": "shopify",
+                    "requires_shipping": true,
+                    "sku": "bch-flops-gr",
+                    "weight": 1,
+                    "weight_unit": "lb",
+                    "inventory_item_id": 48429594935514,
+                    "inventory_quantity": 0,
+                    "old_inventory_quantity": 0,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/46329523863770",
+                    "image_id": 45957650415834
+                },
+                {
+                    "id": 46329523896538,
+                    "product_id": 8824281727194,
+                    "title": "Blue",
+                    "price": "12.99",
+                    "position": 3,
+                    "inventory_policy": "deny",
+                    "compare_at_price": "16.99",
+                    "option1": "Blue",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-03-27T10:26:20-04:00",
+                    "updated_at": "2025-03-27T10:28:30-04:00",
+                    "taxable": true,
+                    "barcode": "UPC00000000008",
+                    "fulfillment_service": "manual",
+                    "grams": 454,
+                    "inventory_management": "shopify",
+                    "requires_shipping": true,
+                    "sku": "bch-flops-bl",
+                    "weight": 1,
+                    "weight_unit": "lb",
+                    "inventory_item_id": 48429594968282,
+                    "inventory_quantity": 0,
+                    "old_inventory_quantity": 0,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/46329523896538",
+                    "image_id": 45957681774810
+                }
+            ],
+            "options": [
+                {
+                    "id": 11201860337882,
+                    "product_id": 8824281727194,
+                    "name": "Color",
+                    "position": 1,
+                    "values": [
+                        "Orange",
+                        "Green",
+                        "Blue"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": 45957642879194,
+                    "alt": null,
+                    "position": 1,
+                    "product_id": 8824281727194,
+                    "created_at": "2025-03-27T10:26:41-04:00",
+                    "updated_at": "2025-03-27T10:26:42-04:00",
+                    "admin_graphql_api_id": "gid://shopify/MediaImage/37632824115418",
+                    "width": 2773,
+                    "height": 3697,
+                    "src": "https://cdn.shopify.com/s/files/1/0752/4653/4874/files/Orange_Flip_Flops.jpg?v=1743085602",
+                    "variant_ids": [
+                        46329523831002
+                    ]
+                },
+                {
+                    "id": 45957650415834,
+                    "alt": null,
+                    "position": 2,
+                    "product_id": 8824281727194,
+                    "created_at": "2025-03-27T10:27:05-04:00",
+                    "updated_at": "2025-03-27T10:27:07-04:00",
+                    "admin_graphql_api_id": "gid://shopify/MediaImage/37632828473562",
+                    "width": 5472,
+                    "height": 3648,
+                    "src": "https://cdn.shopify.com/s/files/1/0752/4653/4874/files/Green_Flip_Flops.jpg?v=1743085627",
+                    "variant_ids": [
+                        46329523863770
+                    ]
+                },
+                {
+                    "id": 45957681774810,
+                    "alt": null,
+                    "position": 3,
+                    "product_id": 8824281727194,
+                    "created_at": "2025-03-27T10:28:11-04:00",
+                    "updated_at": "2025-03-27T10:28:13-04:00",
+                    "admin_graphql_api_id": "gid://shopify/MediaImage/37632852426970",
+                    "width": 4016,
+                    "height": 4735,
+                    "src": "https://cdn.shopify.com/s/files/1/0752/4653/4874/files/Blue_Flip_Flops.jpg?v=1743085693",
+                    "variant_ids": [
+                        46329523896538
+                    ]
+                }
+            ],
+            "image": {
+                "id": 45957642879194,
+                "alt": null,
+                "position": 1,
+                "product_id": 8824281727194,
+                "created_at": "2025-03-27T10:26:41-04:00",
+                "updated_at": "2025-03-27T10:26:42-04:00",
+                "admin_graphql_api_id": "gid://shopify/MediaImage/37632824115418",
+                "width": 2773,
+                "height": 3697,
+                "src": "https://cdn.shopify.com/s/files/1/0752/4653/4874/files/Orange_Flip_Flops.jpg?v=1743085602",
+                "variant_ids": [
+                    46329523831002
+                ]
+            }
+        },
+        {
+            "id": 8821887828186,
+            "title": "Beach Towel",
+            "body_html": "<p>Fancy beach towel</p>",
+            "vendor": "Towel Co.",
+            "product_type": "Towels",
+            "created_at": "2025-03-24T14:25:30-04:00",
+            "handle": "beach-towel",
+            "updated_at": "2025-04-25T12:55:30-04:00",
+            "published_at": "2025-03-24T14:25:27-04:00",
+            "template_suffix": null,
+            "published_scope": "global",
+            "tags": "beach towel",
+            "status": "active",
+            "admin_graphql_api_id": "gid://shopify/Product/8821887828186",
+            "variants": [
+                {
+                    "id": 46322090705114,
+                    "product_id": 8821887828186,
+                    "title": "Blue",
+                    "price": "12.99",
+                    "position": 1,
+                    "inventory_policy": "deny",
+                    "compare_at_price": "17.99",
+                    "option1": "Blue",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-03-24T14:25:30-04:00",
+                    "updated_at": "2025-04-24T13:28:01-04:00",
+                    "taxable": true,
+                    "barcode": "UPC00000000002",
+                    "fulfillment_service": "manual",
+                    "grams": 1000,
+                    "inventory_management": "shopify",
+                    "requires_shipping": true,
+                    "sku": "bch-twl-bl",
+                    "weight": 1000,
+                    "weight_unit": "g",
+                    "inventory_item_id": 48422044074202,
+                    "inventory_quantity": 275,
+                    "old_inventory_quantity": 275,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/46322090705114",
+                    "image_id": 45899577032922
+                },
+                {
+                    "id": 46322090737882,
+                    "product_id": 8821887828186,
+                    "title": "Red",
+                    "price": "12.99",
+                    "position": 2,
+                    "inventory_policy": "deny",
+                    "compare_at_price": "17.99",
+                    "option1": "Red",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-03-24T14:25:30-04:00",
+                    "updated_at": "2025-04-24T13:28:02-04:00",
+                    "taxable": true,
+                    "barcode": "UPC00000000003",
+                    "fulfillment_service": "manual",
+                    "grams": 1000,
+                    "inventory_management": "shopify",
+                    "requires_shipping": true,
+                    "sku": "bch-twl-rd",
+                    "weight": 1000,
+                    "weight_unit": "g",
+                    "inventory_item_id": 48422044106970,
+                    "inventory_quantity": 500,
+                    "old_inventory_quantity": 500,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/46322090737882",
+                    "image_id": 45899577131226
+                },
+                {
+                    "id": 46322090770650,
+                    "product_id": 8821887828186,
+                    "title": "Yellow",
+                    "price": "12.99",
+                    "position": 3,
+                    "inventory_policy": "deny",
+                    "compare_at_price": "17.99",
+                    "option1": "Yellow",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-03-24T14:25:30-04:00",
+                    "updated_at": "2025-04-24T13:28:01-04:00",
+                    "taxable": true,
+                    "barcode": "UPC00000000004",
+                    "fulfillment_service": "manual",
+                    "grams": 1000,
+                    "inventory_management": "shopify",
+                    "requires_shipping": true,
+                    "sku": "bch-twl-yl",
+                    "weight": 1000,
+                    "weight_unit": "g",
+                    "inventory_item_id": 48422044139738,
+                    "inventory_quantity": 724,
+                    "old_inventory_quantity": 724,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/46322090770650",
+                    "image_id": 45899577196762
+                }
+            ],
+            "options": [
+                {
+                    "id": 11199152324826,
+                    "product_id": 8821887828186,
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Blue",
+                        "Red",
+                        "Yellow"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": 45899577032922,
+                    "alt": null,
+                    "position": 1,
+                    "product_id": 8821887828186,
+                    "created_at": "2025-03-24T14:25:30-04:00",
+                    "updated_at": "2025-03-24T14:25:30-04:00",
+                    "admin_graphql_api_id": "gid://shopify/MediaImage/37592926716122",
+                    "width": 300,
+                    "height": 184,
+                    "src": "https://cdn.shopify.com/s/files/1/0752/4653/4874/files/Blue_Beach_Towel_7252619a-8adc-439d-92a4-4d080370b29f.png?v=1742840730",
+                    "variant_ids": [
+                        46322090705114
+                    ]
+                },
+                {
+                    "id": 45899577131226,
+                    "alt": null,
+                    "position": 2,
+                    "product_id": 8821887828186,
+                    "created_at": "2025-03-24T14:25:30-04:00",
+                    "updated_at": "2025-03-24T14:25:30-04:00",
+                    "admin_graphql_api_id": "gid://shopify/MediaImage/37592926781658",
+                    "width": 255,
+                    "height": 317,
+                    "src": "https://cdn.shopify.com/s/files/1/0752/4653/4874/files/Red_Beach_Towel_de70ed01-9a84-4f5a-b3d3-7ffc2947df77.png?v=1742840730",
+                    "variant_ids": [
+                        46322090737882
+                    ]
+                },
+                {
+                    "id": 45899577196762,
+                    "alt": null,
+                    "position": 3,
+                    "product_id": 8821887828186,
+                    "created_at": "2025-03-24T14:25:30-04:00",
+                    "updated_at": "2025-03-24T14:25:30-04:00",
+                    "admin_graphql_api_id": "gid://shopify/MediaImage/37592926847194",
+                    "width": 306,
+                    "height": 423,
+                    "src": "https://cdn.shopify.com/s/files/1/0752/4653/4874/files/Yellow_Beach_Towel_1344cba9-892d-4e78-887b-2813000880fc.png?v=1742840730",
+                    "variant_ids": [
+                        46322090770650
+                    ]
+                }
+            ],
+            "image": {
+                "id": 45899577032922,
+                "alt": null,
+                "position": 1,
+                "product_id": 8821887828186,
+                "created_at": "2025-03-24T14:25:30-04:00",
+                "updated_at": "2025-03-24T14:25:30-04:00",
+                "admin_graphql_api_id": "gid://shopify/MediaImage/37592926716122",
+                "width": 300,
+                "height": 184,
+                "src": "https://cdn.shopify.com/s/files/1/0752/4653/4874/files/Blue_Beach_Towel_7252619a-8adc-439d-92a4-4d080370b29f.png?v=1742840730",
+                "variant_ids": [
+                    46322090705114
+                ]
+            }
+        },
+        {
+            "id": 8824272847066,
+            "title": "Blue Beach Umbrella",
+            "body_html": "<p>Yep, this is a blue beach umbrella.  You know you want it!</p>",
+            "vendor": "Umbrella Co.",
+            "product_type": "",
+            "created_at": "2025-03-27T10:20:08-04:00",
+            "handle": "blue-beach-umbrella",
+            "updated_at": "2025-04-25T12:55:31-04:00",
+            "published_at": "2025-03-27T10:20:08-04:00",
+            "template_suffix": "",
+            "published_scope": "global",
+            "tags": "Beach Umbrella",
+            "status": "active",
+            "admin_graphql_api_id": "gid://shopify/Product/8824272847066",
+            "variants": [
+                {
+                    "id": 46329513312474,
+                    "product_id": 8824272847066,
+                    "title": "Default Title",
+                    "price": "49.99",
+                    "position": 1,
+                    "inventory_policy": "deny",
+                    "compare_at_price": "79.99",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-03-27T10:20:10-04:00",
+                    "updated_at": "2025-03-27T10:20:10-04:00",
+                    "taxable": true,
+                    "barcode": "UPC00000000005",
+                    "fulfillment_service": "manual",
+                    "grams": 7257,
+                    "inventory_management": "shopify",
+                    "requires_shipping": true,
+                    "sku": "bch-umb-bl",
+                    "weight": 16,
+                    "weight_unit": "lb",
+                    "inventory_item_id": 48429584384218,
+                    "inventory_quantity": 0,
+                    "old_inventory_quantity": 0,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/46329513312474",
+                    "image_id": null
+                }
+            ],
+            "options": [
+                {
+                    "id": 11201851293914,
+                    "product_id": 8824272847066,
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": 45957414420698,
+                    "alt": null,
+                    "position": 1,
+                    "product_id": 8824272847066,
+                    "created_at": "2025-03-27T10:13:49-04:00",
+                    "updated_at": "2025-03-27T10:13:50-04:00",
+                    "admin_graphql_api_id": "gid://shopify/MediaImage/37632662175962",
+                    "width": 401,
+                    "height": 323,
+                    "src": "https://cdn.shopify.com/s/files/1/0752/4653/4874/files/BlueUmbrella.jpg?v=1743084830",
+                    "variant_ids": []
+                }
+            ],
+            "image": {
+                "id": 45957414420698,
+                "alt": null,
+                "position": 1,
+                "product_id": 8824272847066,
+                "created_at": "2025-03-27T10:13:49-04:00",
+                "updated_at": "2025-03-27T10:13:50-04:00",
+                "admin_graphql_api_id": "gid://shopify/MediaImage/37632662175962",
+                "width": 401,
+                "height": 323,
+                "src": "https://cdn.shopify.com/s/files/1/0752/4653/4874/files/BlueUmbrella.jpg?v=1743084830",
+                "variant_ids": []
+            }
+        },
+        {
+            "id": 8824342315226,
+            "title": "Orange Beach Umbrella",
+            "body_html": "<p>Yep, this is an orange beach umbrella.  You know you want it!</p>",
+            "vendor": "Umbrella Co.",
+            "product_type": "",
+            "created_at": "2025-03-27T10:55:12-04:00",
+            "handle": "orange-beach-umbrella",
+            "updated_at": "2025-04-25T12:55:31-04:00",
+            "published_at": "2025-03-27T11:07:12-04:00",
+            "template_suffix": "",
+            "published_scope": "global",
+            "tags": "Beach Umbrella",
+            "status": "active",
+            "admin_graphql_api_id": "gid://shopify/Product/8824342315226",
+            "variants": [
+                {
+                    "id": 46329609355482,
+                    "product_id": 8824342315226,
+                    "title": "Default Title",
+                    "price": "49.99",
+                    "position": 1,
+                    "inventory_policy": "deny",
+                    "compare_at_price": "79.99",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-03-27T10:55:12-04:00",
+                    "updated_at": "2025-03-27T10:56:43-04:00",
+                    "taxable": true,
+                    "barcode": "UPC00000000009",
+                    "fulfillment_service": "manual",
+                    "grams": 7257,
+                    "inventory_management": "shopify",
+                    "requires_shipping": true,
+                    "sku": "bch-umb-or",
+                    "weight": 16,
+                    "weight_unit": "lb",
+                    "inventory_item_id": 48429680427226,
+                    "inventory_quantity": 0,
+                    "old_inventory_quantity": 0,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/46329609355482",
+                    "image_id": null
+                }
+            ],
+            "options": [
+                {
+                    "id": 11201922400474,
+                    "product_id": 8824342315226,
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": 45958187647194,
+                    "alt": null,
+                    "position": 1,
+                    "product_id": 8824342315226,
+                    "created_at": "2025-03-27T10:56:35-04:00",
+                    "updated_at": "2025-03-27T10:56:36-04:00",
+                    "admin_graphql_api_id": "gid://shopify/MediaImage/37633235255514",
+                    "width": 270,
+                    "height": 316,
+                    "src": "https://cdn.shopify.com/s/files/1/0752/4653/4874/files/OrangeUmbrella.jpg?v=1743087396",
+                    "variant_ids": []
+                }
+            ],
+            "image": {
+                "id": 45958187647194,
+                "alt": null,
+                "position": 1,
+                "product_id": 8824342315226,
+                "created_at": "2025-03-27T10:56:35-04:00",
+                "updated_at": "2025-03-27T10:56:36-04:00",
+                "admin_graphql_api_id": "gid://shopify/MediaImage/37633235255514",
+                "width": 270,
+                "height": 316,
+                "src": "https://cdn.shopify.com/s/files/1/0752/4653/4874/files/OrangeUmbrella.jpg?v=1743087396",
+                "variant_ids": []
+            }
+        }
+    ]
+}
