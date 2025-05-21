@@ -1,4 +1,4 @@
-https://brandongtest.myshopify.com/admin/api/2025-04/inventory_levels.json?inventoryitemid=48429584384218&locationid=82363154650
+https://brandongtest.myshopify.com/admin/api/2025-04/inventory_levels.json?inventory_item_id=48429584384218&location_id=82363154650
 
 <b>inventoryitemid</b> - unique identifier assigned to an item by Shopify, which can be determined using products.json.
 <b>locationid</b> - unique identier assigned to the location by Shopify, which can be found in Shopify by pulling up the location.
