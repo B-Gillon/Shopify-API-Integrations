@@ -1,2 +1,14 @@
 # Shopify-API-Integrations
-A structured collection of Shopify API workflows, comparing GraphQL and REST approaches for efficient eCommerce development.
+This repository provides real-world examples of Shopify API integrations using both GraphQL and REST methodologies to perform the following functions:
+
+<b>RESTful</b>
+  - Locations: Connect & Disconnect
+  - Products: Retrieve & Create Products
+  - Inventory: Set & Adjust
+  - Orders: Retrieve
+  - Fulfillment Orders: Retrieve
+  - Shipments: Full & Partial
+
+<b>GraphQL</b>
+  - Products: Retrieve & Create Products
+  - Inventory: Set & Adjust
