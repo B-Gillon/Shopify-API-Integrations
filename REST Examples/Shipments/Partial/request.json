@@ -1,0 +1,20 @@
+{
+  "fulfillment": {
+    "notify_customer": true,
+    "tracking_info": {
+      "number": 1562678,
+      "company": "USPS"
+    },
+    "line_items_by_fulfillment_order": [
+      {
+        "fulfillment_order_id": 7051608260826,
+        "fulfillment_order_line_items": [
+          {
+            "id": 14774804283610,
+            "quantity": 1
+          }
+        ]
+      }
+    ]
+  }
+}
