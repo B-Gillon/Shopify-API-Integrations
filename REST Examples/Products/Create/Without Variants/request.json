@@ -1,0 +1,23 @@
+{
+	"product": {
+		"title": "Toy Bucket & Shovel",
+		"body_html": "Make sandcastles with your kid!",
+		"vendor": "Beach Toy Co.",
+		"product_type": "Toys",
+		"handle": "toy-bucket",
+		"tags": "bucket",
+		"status": "active",
+		"variants": [
+			{
+				"price": "9.99",
+				"compare_at_price": "12.99",
+				"barcode": "UPC00000000010",
+				"inventory_management": "shopify",
+				"requires_shipping": true,
+				"sku": "toybucket",
+				"weight": 500,
+				"weight_unit": "g"
+			}
+		]
+	}
+}
