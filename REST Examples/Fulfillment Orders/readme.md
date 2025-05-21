@@ -1,0 +1,3 @@
+When a customer places an order containing multiple items, the products may need to ship from multiple locations.  In Shopify terminology, an "Order" is the entire customer order, while a "Fulfillmnet Order" is a portion of the order that should be filled by a specific location.  Even when an order will ship from a single location, a Fulfillment Order is created by Shopify.
+
+In order to get the full set of details necessary to fulfill orders, you will need to pull the Order and all associated Fulfillment Orders.  This is true in every scenario, even if all orders are being fulfilled from a single location only.
