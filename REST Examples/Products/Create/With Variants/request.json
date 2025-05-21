@@ -1,0 +1,36 @@
+{
+	"product":
+		{
+			"title": "Beach Cooler",
+			"body_html": "Keepin' the beer ice cold all day long!",
+			"vendor": "Cooler Co.",
+			"product_type": "Coolers",
+			"handle": "bch-cooler",
+			"tags": "bucket",
+			"status": "active",
+			"variants": [
+				{
+					"option1": "Green",
+					"price": "29.99",
+					"compare_at_price": "42.99",
+					"barcode": "UPC00000000011",
+					"inventory_management": "shopify",
+					"requires_shipping": true,
+					"sku": "bch-cooler-gr",
+					"weight": 2500,
+					"weight_unit": "g"
+				},
+				{
+					"option1": "Blue",
+					"price": "29.99",
+					"compare_at_price": "42.99",
+					"barcode": "UPC00000000012",
+					"inventory_management": "shopify",
+					"requires_shipping": true,
+					"sku": "bch-cooler-bl",
+					"weight": 2500,
+					"weight_unit": "g"
+				}
+			]
+		}
+}
