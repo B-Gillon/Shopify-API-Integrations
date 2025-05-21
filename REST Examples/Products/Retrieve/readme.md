@@ -1,0 +1,1 @@
+It will be necessary to retrieve a variety of ways.  Products.json allows you to control which product(s) you want to pull, and which fields you want included in the response.  Additionally, you can pull only products that were created or modified since a specific datetime.
