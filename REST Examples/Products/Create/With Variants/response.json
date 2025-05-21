@@ -1,0 +1,90 @@
+{
+    "product": {
+        "id": 8849252352218,
+        "title": "Beach Cooler",
+        "body_html": "Keepin' the beer ice cold all day long!",
+        "vendor": "Cooler Co.",
+        "product_type": "Coolers",
+        "created_at": "2025-04-28T11:39:40-04:00",
+        "handle": "bch-cooler",
+        "updated_at": "2025-04-28T11:39:41-04:00",
+        "published_at": "2025-04-28T11:39:40-04:00",
+        "template_suffix": null,
+        "published_scope": "global",
+        "tags": "bucket",
+        "status": "active",
+        "admin_graphql_api_id": "gid://shopify/Product/8849252352218",
+        "variants": [
+            {
+                "id": 46417160569050,
+                "product_id": 8849252352218,
+                "title": "Green",
+                "price": "29.99",
+                "position": 1,
+                "inventory_policy": "deny",
+                "compare_at_price": "42.99",
+                "option1": "Green",
+                "option2": null,
+                "option3": null,
+                "created_at": "2025-04-28T11:39:40-04:00",
+                "updated_at": "2025-04-28T11:39:40-04:00",
+                "taxable": true,
+                "barcode": "UPC00000000011",
+                "fulfillment_service": "manual",
+                "grams": 2500,
+                "inventory_management": "shopify",
+                "requires_shipping": true,
+                "sku": "bch-cooler-gr",
+                "weight": 2500,
+                "weight_unit": "g",
+                "inventory_item_id": 48517411602650,
+                "inventory_quantity": 0,
+                "old_inventory_quantity": 0,
+                "admin_graphql_api_id": "gid://shopify/ProductVariant/46417160569050",
+                "image_id": null
+            },
+            {
+                "id": 46417160601818,
+                "product_id": 8849252352218,
+                "title": "Blue",
+                "price": "29.99",
+                "position": 2,
+                "inventory_policy": "deny",
+                "compare_at_price": "42.99",
+                "option1": "Blue",
+                "option2": null,
+                "option3": null,
+                "created_at": "2025-04-28T11:39:40-04:00",
+                "updated_at": "2025-04-28T11:39:40-04:00",
+                "taxable": true,
+                "barcode": "UPC00000000012",
+                "fulfillment_service": "manual",
+                "grams": 2500,
+                "inventory_management": "shopify",
+                "requires_shipping": true,
+                "sku": "bch-cooler-bl",
+                "weight": 2500,
+                "weight_unit": "g",
+                "inventory_item_id": 48517411635418,
+                "inventory_quantity": 0,
+                "old_inventory_quantity": 0,
+                "admin_graphql_api_id": "gid://shopify/ProductVariant/46417160601818",
+                "image_id": null
+            }
+        ],
+        "options": [
+            {
+                "id": 11232177291482,
+                "product_id": 8849252352218,
+                "name": "Title",
+                "position": 1,
+                "values": [
+                    "Green",
+                    "Blue"
+                ]
+            }
+        ],
+        "images": [],
+        "image": null
+    }
+}
