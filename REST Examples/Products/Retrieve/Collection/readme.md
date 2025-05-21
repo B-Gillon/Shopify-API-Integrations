@@ -1,1 +1,1 @@
-Example of pulling all items associated to a specific collection.
+Example of pulling all products associated to a specific collection.
