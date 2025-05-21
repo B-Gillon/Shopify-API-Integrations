@@ -1,0 +1,2268 @@
+{
+    "orders": [
+        {
+            "id": 5932143116506,
+            "admin_graphql_api_id": "gid://shopify/Order/5932143116506",
+            "app_id": 580111,
+            "browser_ip": "97.166.122.48",
+            "buyer_accepts_marketing": false,
+            "cancel_reason": null,
+            "cancelled_at": null,
+            "cart_token": "Z2NwLXVzLWNlbnRyYWwxOjAxSlRHRkIwUDlWN01IWlZUQzNKOFk4Q1RU",
+            "checkout_id": 36371571769562,
+            "checkout_token": "69e3ddccb82f8fb6a09945c29395858c",
+            "client_details": {
+                "accept_language": "en-US",
+                "browser_height": null,
+                "browser_ip": "97.166.122.48",
+                "browser_width": null,
+                "session_hash": null,
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+            },
+            "closed_at": null,
+            "company": null,
+            "confirmation_number": "4YWLLMHXD",
+            "confirmed": true,
+            "contact_email": "bgillon@gmail.com",
+            "created_at": "2025-05-05T11:13:22-04:00",
+            "currency": "USD",
+            "current_subtotal_price": "8.99",
+            "current_subtotal_price_set": {
+                "shop_money": {
+                    "amount": "8.99",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "8.99",
+                    "currency_code": "USD"
+                }
+            },
+            "current_total_additional_fees_set": null,
+            "current_total_discounts": "0.00",
+            "current_total_discounts_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "current_total_duties_set": null,
+            "current_total_price": "14.89",
+            "current_total_price_set": {
+                "shop_money": {
+                    "amount": "14.89",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "14.89",
+                    "currency_code": "USD"
+                }
+            },
+            "current_total_tax": "1.00",
+            "current_total_tax_set": {
+                "shop_money": {
+                    "amount": "1.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "1.00",
+                    "currency_code": "USD"
+                }
+            },
+            "customer_locale": "en-US",
+            "device_id": null,
+            "discount_codes": [],
+            "duties_included": false,
+            "email": "bgillon@gmail.com",
+            "estimated_taxes": false,
+            "financial_status": "paid",
+            "fulfillment_status": null,
+            "landing_site": "/?_bt=eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaDlpY21GdVpHOXVaM1JsYzNRdWJYbHphRzl3YVdaNUxtTnZiUVk2QmtWVSIsImV4cCI6IjIwMjUtMDQtMjRUMTc6MzU6MTQuNzU0WiIsInB1ciI6InBlcm1hbmVudF9wYXNzd29yZF9ieXBhc3MifX0=--dc84b30b741722059c81924a89ffaa953171220f",
+            "landing_site_ref": null,
+            "location_id": null,
+            "merchant_business_entity_id": "MTc1MjQ2NTM0ODc0",
+            "merchant_of_record_app_id": null,
+            "name": "#1006",
+            "note": "Happy birthday, Johnny!",
+            "note_attributes": [],
+            "number": 6,
+            "order_number": 1006,
+            "order_status_url": "https://brandongtest.myshopify.com/75246534874/orders/3e621f8c80f2e9a08acd5adf2347451c/authenticate?key=be0441f419877252ccbb2cd42fcd3e8b",
+            "original_total_additional_fees_set": null,
+            "original_total_duties_set": null,
+            "payment_gateway_names": [
+                "bogus"
+            ],
+            "phone": null,
+            "po_number": null,
+            "presentment_currency": "USD",
+            "processed_at": "2025-05-05T11:13:20-04:00",
+            "reference": null,
+            "referring_site": "https://admin.shopify.com/",
+            "source_identifier": null,
+            "source_name": "web",
+            "source_url": null,
+            "subtotal_price": "8.99",
+            "subtotal_price_set": {
+                "shop_money": {
+                    "amount": "8.99",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "8.99",
+                    "currency_code": "USD"
+                }
+            },
+            "tags": "",
+            "tax_exempt": false,
+            "tax_lines": [
+                {
+                    "price": "0.28",
+                    "rate": 0.02,
+                    "title": "Wake County Tax",
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "0.28",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "0.28",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "channel_liable": false
+                },
+                {
+                    "price": "0.06",
+                    "rate": 0.005,
+                    "title": "Wake Co Tr",
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "0.06",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "0.06",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "channel_liable": false
+                },
+                {
+                    "price": "0.66",
+                    "rate": 0.0475,
+                    "title": "North Carolina State Tax",
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "0.66",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "0.66",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "channel_liable": false
+                }
+            ],
+            "taxes_included": false,
+            "test": true,
+            "token": "3e621f8c80f2e9a08acd5adf2347451c",
+            "total_cash_rounding_payment_adjustment_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "total_cash_rounding_refund_adjustment_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "total_discounts": "0.00",
+            "total_discounts_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "total_line_items_price": "8.99",
+            "total_line_items_price_set": {
+                "shop_money": {
+                    "amount": "8.99",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "8.99",
+                    "currency_code": "USD"
+                }
+            },
+            "total_outstanding": "0.00",
+            "total_price": "14.89",
+            "total_price_set": {
+                "shop_money": {
+                    "amount": "14.89",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "14.89",
+                    "currency_code": "USD"
+                }
+            },
+            "total_shipping_price_set": {
+                "shop_money": {
+                    "amount": "4.90",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "4.90",
+                    "currency_code": "USD"
+                }
+            },
+            "total_tax": "1.00",
+            "total_tax_set": {
+                "shop_money": {
+                    "amount": "1.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "1.00",
+                    "currency_code": "USD"
+                }
+            },
+            "total_tip_received": "0.00",
+            "total_weight": 300,
+            "updated_at": "2025-05-05T11:13:23-04:00",
+            "user_id": null,
+            "billing_address": {
+                "first_name": "John",
+                "address1": "1500 Windjammer Drive",
+                "phone": null,
+                "city": "Monroe",
+                "zip": "28110",
+                "province": "North Carolina",
+                "country": "United States",
+                "last_name": "Doe",
+                "address2": null,
+                "company": null,
+                "latitude": 35.070355,
+                "longitude": -80.6286745,
+                "name": "John Doe",
+                "country_code": "US",
+                "province_code": "NC"
+            },
+            "customer": {
+                "id": 7860595687642,
+                "email": "bgillon@gmail.com",
+                "created_at": "2025-04-11T10:53:27-04:00",
+                "updated_at": "2025-05-05T11:13:26-04:00",
+                "first_name": "Christopher",
+                "last_name": "Gillon",
+                "state": "disabled",
+                "note": null,
+                "verified_email": true,
+                "multipass_identifier": null,
+                "tax_exempt": false,
+                "phone": null,
+                "email_marketing_consent": {
+                    "state": "not_subscribed",
+                    "opt_in_level": "single_opt_in",
+                    "consent_updated_at": null
+                },
+                "sms_marketing_consent": null,
+                "tags": "",
+                "currency": "USD",
+                "tax_exemptions": [],
+                "admin_graphql_api_id": "gid://shopify/Customer/7860595687642",
+                "default_address": {
+                    "id": 9342625218778,
+                    "customer_id": 7860595687642,
+                    "first_name": "Brandon",
+                    "last_name": "Gillon",
+                    "company": null,
+                    "address1": "1504 Surfbird Court",
+                    "address2": null,
+                    "city": "Raleigh",
+                    "province": "North Carolina",
+                    "country": "United States",
+                    "zip": "27615",
+                    "phone": null,
+                    "name": "Brandon Gillon",
+                    "province_code": "NC",
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "default": true
+                }
+            },
+            "discount_applications": [],
+            "fulfillments": [],
+            "line_items": [
+                {
+                    "id": 14494367744218,
+                    "admin_graphql_api_id": "gid://shopify/LineItem/14494367744218",
+                    "attributed_staffs": [],
+                    "current_quantity": 1,
+                    "fulfillable_quantity": 1,
+                    "fulfillment_service": "manual",
+                    "fulfillment_status": null,
+                    "gift_card": false,
+                    "grams": 300,
+                    "name": "Beach Ball - Beach Ball",
+                    "price": "8.99",
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "8.99",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "8.99",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "product_exists": true,
+                    "product_id": 8821686337754,
+                    "properties": [],
+                    "quantity": 1,
+                    "requires_shipping": true,
+                    "sku": "beachball",
+                    "taxable": true,
+                    "title": "Beach Ball",
+                    "total_discount": "0.00",
+                    "total_discount_set": {
+                        "shop_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "variant_id": 46321538793690,
+                    "variant_inventory_management": "shopify",
+                    "variant_title": "Beach Ball",
+                    "vendor": "Ball Co.",
+                    "tax_lines": [
+                        {
+                            "channel_liable": false,
+                            "price": "0.18",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "0.18",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.18",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "rate": 0.02,
+                            "title": "Wake County Tax"
+                        },
+                        {
+                            "channel_liable": false,
+                            "price": "0.04",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "0.04",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.04",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "rate": 0.005,
+                            "title": "Wake Co Tr"
+                        },
+                        {
+                            "channel_liable": false,
+                            "price": "0.43",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "0.43",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.43",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "rate": 0.0475,
+                            "title": "North Carolina State Tax"
+                        }
+                    ],
+                    "duties": [],
+                    "discount_allocations": []
+                }
+            ],
+            "payment_terms": null,
+            "refunds": [],
+            "shipping_address": {
+                "first_name": "Brandon",
+                "address1": "1504 Surfbird Court",
+                "phone": null,
+                "city": "Raleigh",
+                "zip": "27615",
+                "province": "North Carolina",
+                "country": "United States",
+                "last_name": "Gillon",
+                "address2": null,
+                "company": null,
+                "latitude": 35.9003931,
+                "longitude": -78.66516020000002,
+                "name": "Brandon Gillon",
+                "country_code": "US",
+                "province_code": "NC"
+            },
+            "shipping_lines": [
+                {
+                    "id": 4821139521754,
+                    "carrier_identifier": null,
+                    "code": "Economy",
+                    "discounted_price": "4.90",
+                    "discounted_price_set": {
+                        "shop_money": {
+                            "amount": "4.90",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "4.90",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "is_removed": false,
+                    "phone": null,
+                    "price": "4.90",
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "4.90",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "4.90",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "requested_fulfillment_service_id": null,
+                    "source": "shopify",
+                    "title": "Economy",
+                    "tax_lines": [
+                        {
+                            "channel_liable": false,
+                            "price": "0.10",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "0.10",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.10",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "rate": 0.02,
+                            "title": "Wake County Tax"
+                        },
+                        {
+                            "channel_liable": false,
+                            "price": "0.02",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "0.02",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.02",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "rate": 0.005,
+                            "title": "Wake Co Tr"
+                        },
+                        {
+                            "channel_liable": false,
+                            "price": "0.23",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "0.23",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.23",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "rate": 0.0475,
+                            "title": "North Carolina State Tax"
+                        }
+                    ],
+                    "discount_allocations": []
+                }
+            ]
+        },
+        {
+            "id": 5932113395930,
+            "admin_graphql_api_id": "gid://shopify/Order/5932113395930",
+            "app_id": 580111,
+            "browser_ip": "97.166.122.48",
+            "buyer_accepts_marketing": false,
+            "cancel_reason": null,
+            "cancelled_at": null,
+            "cart_token": "Z2NwLXVzLWNlbnRyYWwxOjAxSlRHRUJCMkVQSDc0QTROVEQ3MEJCUkEz",
+            "checkout_id": 36371512623322,
+            "checkout_token": "6ac103a9d742a8f3278fa143303e87d1",
+            "client_details": {
+                "accept_language": "en-US",
+                "browser_height": null,
+                "browser_ip": "97.166.122.48",
+                "browser_width": null,
+                "session_hash": null,
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+            },
+            "closed_at": null,
+            "company": null,
+            "confirmation_number": "8H00475V4",
+            "confirmed": true,
+            "contact_email": "bgillon@gmail.com",
+            "created_at": "2025-05-05T10:42:53-04:00",
+            "currency": "USD",
+            "current_subtotal_price": "58.98",
+            "current_subtotal_price_set": {
+                "shop_money": {
+                    "amount": "58.98",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "58.98",
+                    "currency_code": "USD"
+                }
+            },
+            "current_total_additional_fees_set": null,
+            "current_total_discounts": "0.00",
+            "current_total_discounts_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "current_total_duties_set": null,
+            "current_total_price": "63.25",
+            "current_total_price_set": {
+                "shop_money": {
+                    "amount": "63.25",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "63.25",
+                    "currency_code": "USD"
+                }
+            },
+            "current_total_tax": "4.27",
+            "current_total_tax_set": {
+                "shop_money": {
+                    "amount": "4.27",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "4.27",
+                    "currency_code": "USD"
+                }
+            },
+            "customer_locale": "en-US",
+            "device_id": null,
+            "discount_codes": [],
+            "duties_included": false,
+            "email": "bgillon@gmail.com",
+            "estimated_taxes": false,
+            "financial_status": "paid",
+            "fulfillment_status": null,
+            "landing_site": "/?_bt=eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaDlpY21GdVpHOXVaM1JsYzNRdWJYbHphRzl3YVdaNUxtTnZiUVk2QmtWVSIsImV4cCI6IjIwMjUtMDQtMjRUMTc6MzU6MTQuNzU0WiIsInB1ciI6InBlcm1hbmVudF9wYXNzd29yZF9ieXBhc3MifX0=--dc84b30b741722059c81924a89ffaa953171220f",
+            "landing_site_ref": null,
+            "location_id": null,
+            "merchant_business_entity_id": "MTc1MjQ2NTM0ODc0",
+            "merchant_of_record_app_id": null,
+            "name": "#1005",
+            "note": null,
+            "note_attributes": [],
+            "number": 5,
+            "order_number": 1005,
+            "order_status_url": "https://brandongtest.myshopify.com/75246534874/orders/947ec7befb4118d523a1d0a95f8d6f8b/authenticate?key=131f8aa6fef9ac5307391bd89b5f9991",
+            "original_total_additional_fees_set": null,
+            "original_total_duties_set": null,
+            "payment_gateway_names": [
+                "bogus"
+            ],
+            "phone": null,
+            "po_number": null,
+            "presentment_currency": "USD",
+            "processed_at": "2025-05-05T10:42:51-04:00",
+            "reference": null,
+            "referring_site": "https://admin.shopify.com/",
+            "source_identifier": null,
+            "source_name": "web",
+            "source_url": null,
+            "subtotal_price": "58.98",
+            "subtotal_price_set": {
+                "shop_money": {
+                    "amount": "58.98",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "58.98",
+                    "currency_code": "USD"
+                }
+            },
+            "tags": "",
+            "tax_exempt": false,
+            "tax_lines": [
+                {
+                    "price": "1.18",
+                    "rate": 0.02,
+                    "title": "Wake County Tax",
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "1.18",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "1.18",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "channel_liable": false
+                },
+                {
+                    "price": "0.29",
+                    "rate": 0.005,
+                    "title": "Wake Co Tr",
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "0.29",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "0.29",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "channel_liable": false
+                },
+                {
+                    "price": "2.80",
+                    "rate": 0.0475,
+                    "title": "North Carolina State Tax",
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "2.80",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "2.80",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "channel_liable": false
+                }
+            ],
+            "taxes_included": false,
+            "test": true,
+            "token": "947ec7befb4118d523a1d0a95f8d6f8b",
+            "total_cash_rounding_payment_adjustment_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "total_cash_rounding_refund_adjustment_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "total_discounts": "0.00",
+            "total_discounts_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "total_line_items_price": "58.98",
+            "total_line_items_price_set": {
+                "shop_money": {
+                    "amount": "58.98",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "58.98",
+                    "currency_code": "USD"
+                }
+            },
+            "total_outstanding": "0.00",
+            "total_price": "63.25",
+            "total_price_set": {
+                "shop_money": {
+                    "amount": "63.25",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "63.25",
+                    "currency_code": "USD"
+                }
+            },
+            "total_shipping_price_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "total_tax": "4.27",
+            "total_tax_set": {
+                "shop_money": {
+                    "amount": "4.27",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "4.27",
+                    "currency_code": "USD"
+                }
+            },
+            "total_tip_received": "0.00",
+            "total_weight": 7558,
+            "updated_at": "2025-05-05T10:42:54-04:00",
+            "user_id": null,
+            "billing_address": {
+                "first_name": "Brandon",
+                "address1": "1504 Surfbird Court",
+                "phone": null,
+                "city": "Raleigh",
+                "zip": "27615",
+                "province": "North Carolina",
+                "country": "United States",
+                "last_name": "Gillon",
+                "address2": null,
+                "company": null,
+                "latitude": 35.9003931,
+                "longitude": -78.66516020000002,
+                "name": "Brandon Gillon",
+                "country_code": "US",
+                "province_code": "NC"
+            },
+            "customer": {
+                "id": 7860595687642,
+                "email": "bgillon@gmail.com",
+                "created_at": "2025-04-11T10:53:27-04:00",
+                "updated_at": "2025-05-05T11:13:26-04:00",
+                "first_name": "Christopher",
+                "last_name": "Gillon",
+                "state": "disabled",
+                "note": null,
+                "verified_email": true,
+                "multipass_identifier": null,
+                "tax_exempt": false,
+                "phone": null,
+                "email_marketing_consent": {
+                    "state": "not_subscribed",
+                    "opt_in_level": "single_opt_in",
+                    "consent_updated_at": null
+                },
+                "sms_marketing_consent": null,
+                "tags": "",
+                "currency": "USD",
+                "tax_exemptions": [],
+                "admin_graphql_api_id": "gid://shopify/Customer/7860595687642",
+                "default_address": {
+                    "id": 9342625218778,
+                    "customer_id": 7860595687642,
+                    "first_name": "Brandon",
+                    "last_name": "Gillon",
+                    "company": null,
+                    "address1": "1504 Surfbird Court",
+                    "address2": null,
+                    "city": "Raleigh",
+                    "province": "North Carolina",
+                    "country": "United States",
+                    "zip": "27615",
+                    "phone": null,
+                    "name": "Brandon Gillon",
+                    "province_code": "NC",
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "default": true
+                }
+            },
+            "discount_applications": [],
+            "fulfillments": [],
+            "line_items": [
+                {
+                    "id": 14494310072538,
+                    "admin_graphql_api_id": "gid://shopify/LineItem/14494310072538",
+                    "attributed_staffs": [],
+                    "current_quantity": 1,
+                    "fulfillable_quantity": 1,
+                    "fulfillment_service": "manual",
+                    "fulfillment_status": null,
+                    "gift_card": false,
+                    "grams": 7257,
+                    "name": "Blue Beach Umbrella",
+                    "price": "49.99",
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "49.99",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "49.99",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "product_exists": true,
+                    "product_id": 8824272847066,
+                    "properties": [],
+                    "quantity": 1,
+                    "requires_shipping": true,
+                    "sku": "bch-umb-bl",
+                    "taxable": true,
+                    "title": "Blue Beach Umbrella",
+                    "total_discount": "0.00",
+                    "total_discount_set": {
+                        "shop_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "variant_id": 46329513312474,
+                    "variant_inventory_management": "shopify",
+                    "variant_title": null,
+                    "vendor": "Umbrella Co.",
+                    "tax_lines": [
+                        {
+                            "channel_liable": false,
+                            "price": "1.00",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "1.00",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "1.00",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "rate": 0.02,
+                            "title": "Wake County Tax"
+                        },
+                        {
+                            "channel_liable": false,
+                            "price": "0.25",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "0.25",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.25",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "rate": 0.005,
+                            "title": "Wake Co Tr"
+                        },
+                        {
+                            "channel_liable": false,
+                            "price": "2.37",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "2.37",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "2.37",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "rate": 0.0475,
+                            "title": "North Carolina State Tax"
+                        }
+                    ],
+                    "duties": [],
+                    "discount_allocations": []
+                },
+                {
+                    "id": 14494310105306,
+                    "admin_graphql_api_id": "gid://shopify/LineItem/14494310105306",
+                    "attributed_staffs": [],
+                    "current_quantity": 1,
+                    "fulfillable_quantity": 1,
+                    "fulfillment_service": "manual",
+                    "fulfillment_status": null,
+                    "gift_card": false,
+                    "grams": 300,
+                    "name": "Beach Ball - Beach Ball",
+                    "price": "8.99",
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "8.99",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "8.99",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "product_exists": true,
+                    "product_id": 8821686337754,
+                    "properties": [],
+                    "quantity": 1,
+                    "requires_shipping": true,
+                    "sku": "beachball",
+                    "taxable": true,
+                    "title": "Beach Ball",
+                    "total_discount": "0.00",
+                    "total_discount_set": {
+                        "shop_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "variant_id": 46321538793690,
+                    "variant_inventory_management": "shopify",
+                    "variant_title": "Beach Ball",
+                    "vendor": "Ball Co.",
+                    "tax_lines": [
+                        {
+                            "channel_liable": false,
+                            "price": "0.18",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "0.18",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.18",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "rate": 0.02,
+                            "title": "Wake County Tax"
+                        },
+                        {
+                            "channel_liable": false,
+                            "price": "0.04",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "0.04",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.04",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "rate": 0.005,
+                            "title": "Wake Co Tr"
+                        },
+                        {
+                            "channel_liable": false,
+                            "price": "0.43",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "0.43",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.43",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "rate": 0.0475,
+                            "title": "North Carolina State Tax"
+                        }
+                    ],
+                    "duties": [],
+                    "discount_allocations": []
+                }
+            ],
+            "payment_terms": null,
+            "refunds": [],
+            "shipping_address": {
+                "first_name": "Brandon",
+                "address1": "1504 Surfbird Court",
+                "phone": null,
+                "city": "Raleigh",
+                "zip": "27615",
+                "province": "North Carolina",
+                "country": "United States",
+                "last_name": "Gillon",
+                "address2": null,
+                "company": null,
+                "latitude": null,
+                "longitude": null,
+                "name": "Brandon Gillon",
+                "country_code": "US",
+                "province_code": "NC"
+            },
+            "shipping_lines": [
+                {
+                    "id": 4821117010138,
+                    "carrier_identifier": null,
+                    "code": "Economy",
+                    "discounted_price": "0.00",
+                    "discounted_price_set": {
+                        "shop_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "is_removed": false,
+                    "phone": null,
+                    "price": "0.00",
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "requested_fulfillment_service_id": null,
+                    "source": "shopify",
+                    "title": "Economy",
+                    "tax_lines": [
+                        {
+                            "channel_liable": false,
+                            "price": "0.00",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "0.00",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.00",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "rate": 0.02,
+                            "title": "Wake County Tax"
+                        },
+                        {
+                            "channel_liable": false,
+                            "price": "0.00",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "0.00",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.00",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "rate": 0.005,
+                            "title": "Wake Co Tr"
+                        },
+                        {
+                            "channel_liable": false,
+                            "price": "0.00",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "0.00",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.00",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "rate": 0.0475,
+                            "title": "North Carolina State Tax"
+                        }
+                    ],
+                    "discount_allocations": []
+                }
+            ]
+        },
+        {
+            "id": 5932112249050,
+            "admin_graphql_api_id": "gid://shopify/Order/5932112249050",
+            "app_id": 580111,
+            "browser_ip": "97.166.122.48",
+            "buyer_accepts_marketing": false,
+            "cancel_reason": null,
+            "cancelled_at": null,
+            "cart_token": "Z2NwLXVzLWNlbnRyYWwxOjAxSlRHRFdaSjFERVZEREFLNzBRVDMwNlZU",
+            "checkout_id": 36371490177242,
+            "checkout_token": "6ef66dd8d42ace61c9918ba8b0fa6757",
+            "client_details": {
+                "accept_language": "en-US",
+                "browser_height": null,
+                "browser_ip": "97.166.122.48",
+                "browser_width": null,
+                "session_hash": null,
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+            },
+            "closed_at": null,
+            "company": null,
+            "confirmation_number": "R6AEML5RL",
+            "confirmed": true,
+            "contact_email": "bgillon@gmail.com",
+            "created_at": "2025-05-05T10:41:40-04:00",
+            "currency": "USD",
+            "current_subtotal_price": "25.98",
+            "current_subtotal_price_set": {
+                "shop_money": {
+                    "amount": "25.98",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "25.98",
+                    "currency_code": "USD"
+                }
+            },
+            "current_total_additional_fees_set": null,
+            "current_total_discounts": "0.00",
+            "current_total_discounts_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "current_total_duties_set": null,
+            "current_total_price": "33.11",
+            "current_total_price_set": {
+                "shop_money": {
+                    "amount": "33.11",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "33.11",
+                    "currency_code": "USD"
+                }
+            },
+            "current_total_tax": "2.23",
+            "current_total_tax_set": {
+                "shop_money": {
+                    "amount": "2.23",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "2.23",
+                    "currency_code": "USD"
+                }
+            },
+            "customer_locale": "en-US",
+            "device_id": null,
+            "discount_codes": [],
+            "duties_included": false,
+            "email": "bgillon@gmail.com",
+            "estimated_taxes": false,
+            "financial_status": "paid",
+            "fulfillment_status": null,
+            "landing_site": "/?_bt=eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaDlpY21GdVpHOXVaM1JsYzNRdWJYbHphRzl3YVdaNUxtTnZiUVk2QmtWVSIsImV4cCI6IjIwMjUtMDQtMjRUMTc6MzU6MTQuNzU0WiIsInB1ciI6InBlcm1hbmVudF9wYXNzd29yZF9ieXBhc3MifX0=--dc84b30b741722059c81924a89ffaa953171220f",
+            "landing_site_ref": null,
+            "location_id": null,
+            "merchant_business_entity_id": "MTc1MjQ2NTM0ODc0",
+            "merchant_of_record_app_id": null,
+            "name": "#1004",
+            "note": null,
+            "note_attributes": [],
+            "number": 4,
+            "order_number": 1004,
+            "order_status_url": "https://brandongtest.myshopify.com/75246534874/orders/7120614e7cd6775cdb44cff6999fc2f0/authenticate?key=c9b4404c94a268a6462cd98cce600357",
+            "original_total_additional_fees_set": null,
+            "original_total_duties_set": null,
+            "payment_gateway_names": [
+                "bogus"
+            ],
+            "phone": null,
+            "po_number": null,
+            "presentment_currency": "USD",
+            "processed_at": "2025-05-05T10:41:39-04:00",
+            "reference": null,
+            "referring_site": "https://admin.shopify.com/",
+            "source_identifier": null,
+            "source_name": "web",
+            "source_url": null,
+            "subtotal_price": "25.98",
+            "subtotal_price_set": {
+                "shop_money": {
+                    "amount": "25.98",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "25.98",
+                    "currency_code": "USD"
+                }
+            },
+            "tags": "",
+            "tax_exempt": false,
+            "tax_lines": [
+                {
+                    "price": "0.62",
+                    "rate": 0.02,
+                    "title": "Wake County Tax",
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "0.62",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "0.62",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "channel_liable": false
+                },
+                {
+                    "price": "0.14",
+                    "rate": 0.005,
+                    "title": "Wake Co Tr",
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "0.14",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "0.14",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "channel_liable": false
+                },
+                {
+                    "price": "1.47",
+                    "rate": 0.0475,
+                    "title": "North Carolina State Tax",
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "1.47",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "1.47",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "channel_liable": false
+                }
+            ],
+            "taxes_included": false,
+            "test": true,
+            "token": "7120614e7cd6775cdb44cff6999fc2f0",
+            "total_cash_rounding_payment_adjustment_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "total_cash_rounding_refund_adjustment_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "total_discounts": "0.00",
+            "total_discounts_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "total_line_items_price": "25.98",
+            "total_line_items_price_set": {
+                "shop_money": {
+                    "amount": "25.98",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "25.98",
+                    "currency_code": "USD"
+                }
+            },
+            "total_outstanding": "0.00",
+            "total_price": "33.11",
+            "total_price_set": {
+                "shop_money": {
+                    "amount": "33.11",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "33.11",
+                    "currency_code": "USD"
+                }
+            },
+            "total_shipping_price_set": {
+                "shop_money": {
+                    "amount": "4.90",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "4.90",
+                    "currency_code": "USD"
+                }
+            },
+            "total_tax": "2.23",
+            "total_tax_set": {
+                "shop_money": {
+                    "amount": "2.23",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "2.23",
+                    "currency_code": "USD"
+                }
+            },
+            "total_tip_received": "0.00",
+            "total_weight": 2000,
+            "updated_at": "2025-05-05T10:41:42-04:00",
+            "user_id": null,
+            "billing_address": {
+                "first_name": "Brandon",
+                "address1": "1504 Surfbird Court",
+                "phone": null,
+                "city": "Raleigh",
+                "zip": "27615",
+                "province": "North Carolina",
+                "country": "United States",
+                "last_name": "Gillon",
+                "address2": null,
+                "company": null,
+                "latitude": 35.9003931,
+                "longitude": -78.66516020000002,
+                "name": "Brandon Gillon",
+                "country_code": "US",
+                "province_code": "NC"
+            },
+            "customer": {
+                "id": 7860595687642,
+                "email": "bgillon@gmail.com",
+                "created_at": "2025-04-11T10:53:27-04:00",
+                "updated_at": "2025-05-05T11:13:26-04:00",
+                "first_name": "Christopher",
+                "last_name": "Gillon",
+                "state": "disabled",
+                "note": null,
+                "verified_email": true,
+                "multipass_identifier": null,
+                "tax_exempt": false,
+                "phone": null,
+                "email_marketing_consent": {
+                    "state": "not_subscribed",
+                    "opt_in_level": "single_opt_in",
+                    "consent_updated_at": null
+                },
+                "sms_marketing_consent": null,
+                "tags": "",
+                "currency": "USD",
+                "tax_exemptions": [],
+                "admin_graphql_api_id": "gid://shopify/Customer/7860595687642",
+                "default_address": {
+                    "id": 9342625218778,
+                    "customer_id": 7860595687642,
+                    "first_name": "Brandon",
+                    "last_name": "Gillon",
+                    "company": null,
+                    "address1": "1504 Surfbird Court",
+                    "address2": null,
+                    "city": "Raleigh",
+                    "province": "North Carolina",
+                    "country": "United States",
+                    "zip": "27615",
+                    "phone": null,
+                    "name": "Brandon Gillon",
+                    "province_code": "NC",
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "default": true
+                }
+            },
+            "discount_applications": [],
+            "fulfillments": [],
+            "line_items": [
+                {
+                    "id": 14494307778778,
+                    "admin_graphql_api_id": "gid://shopify/LineItem/14494307778778",
+                    "attributed_staffs": [],
+                    "current_quantity": 1,
+                    "fulfillable_quantity": 1,
+                    "fulfillment_service": "manual",
+                    "fulfillment_status": null,
+                    "gift_card": false,
+                    "grams": 1000,
+                    "name": "Beach Towel - Yellow",
+                    "price": "12.99",
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "12.99",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "12.99",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "product_exists": true,
+                    "product_id": 8821887828186,
+                    "properties": [],
+                    "quantity": 1,
+                    "requires_shipping": true,
+                    "sku": "bch-twl-yl",
+                    "taxable": true,
+                    "title": "Beach Towel",
+                    "total_discount": "0.00",
+                    "total_discount_set": {
+                        "shop_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "variant_id": 46322090770650,
+                    "variant_inventory_management": "shopify",
+                    "variant_title": "Yellow",
+                    "vendor": "Towel Co.",
+                    "tax_lines": [
+                        {
+                            "channel_liable": false,
+                            "price": "0.26",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "0.26",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.26",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "rate": 0.02,
+                            "title": "Wake County Tax"
+                        },
+                        {
+                            "channel_liable": false,
+                            "price": "0.06",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "0.06",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.06",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "rate": 0.005,
+                            "title": "Wake Co Tr"
+                        },
+                        {
+                            "channel_liable": false,
+                            "price": "0.62",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "0.62",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.62",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "rate": 0.0475,
+                            "title": "North Carolina State Tax"
+                        }
+                    ],
+                    "duties": [],
+                    "discount_allocations": []
+                },
+                {
+                    "id": 14494307811546,
+                    "admin_graphql_api_id": "gid://shopify/LineItem/14494307811546",
+                    "attributed_staffs": [],
+                    "current_quantity": 1,
+                    "fulfillable_quantity": 1,
+                    "fulfillment_service": "manual",
+                    "fulfillment_status": null,
+                    "gift_card": false,
+                    "grams": 1000,
+                    "name": "Beach Towel - Blue",
+                    "price": "12.99",
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "12.99",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "12.99",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "product_exists": true,
+                    "product_id": 8821887828186,
+                    "properties": [],
+                    "quantity": 1,
+                    "requires_shipping": true,
+                    "sku": "bch-twl-bl",
+                    "taxable": true,
+                    "title": "Beach Towel",
+                    "total_discount": "0.00",
+                    "total_discount_set": {
+                        "shop_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "variant_id": 46322090705114,
+                    "variant_inventory_management": "shopify",
+                    "variant_title": "Blue",
+                    "vendor": "Towel Co.",
+                    "tax_lines": [
+                        {
+                            "channel_liable": false,
+                            "price": "0.26",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "0.26",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.26",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "rate": 0.02,
+                            "title": "Wake County Tax"
+                        },
+                        {
+                            "channel_liable": false,
+                            "price": "0.06",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "0.06",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.06",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "rate": 0.005,
+                            "title": "Wake Co Tr"
+                        },
+                        {
+                            "channel_liable": false,
+                            "price": "0.62",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "0.62",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.62",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "rate": 0.0475,
+                            "title": "North Carolina State Tax"
+                        }
+                    ],
+                    "duties": [],
+                    "discount_allocations": []
+                }
+            ],
+            "payment_terms": null,
+            "refunds": [],
+            "shipping_address": {
+                "first_name": "Brandon",
+                "address1": "1504 Surfbird Court",
+                "phone": null,
+                "city": "Raleigh",
+                "zip": "27615",
+                "province": "North Carolina",
+                "country": "United States",
+                "last_name": "Gillon",
+                "address2": null,
+                "company": null,
+                "latitude": 35.9003931,
+                "longitude": -78.66516020000002,
+                "name": "Brandon Gillon",
+                "country_code": "US",
+                "province_code": "NC"
+            },
+            "shipping_lines": [
+                {
+                    "id": 4821115961562,
+                    "carrier_identifier": null,
+                    "code": "Economy",
+                    "discounted_price": "4.90",
+                    "discounted_price_set": {
+                        "shop_money": {
+                            "amount": "4.90",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "4.90",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "is_removed": false,
+                    "phone": null,
+                    "price": "4.90",
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "4.90",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "4.90",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "requested_fulfillment_service_id": null,
+                    "source": "shopify",
+                    "title": "Economy",
+                    "tax_lines": [
+                        {
+                            "channel_liable": false,
+                            "price": "0.10",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "0.10",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.10",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "rate": 0.02,
+                            "title": "Wake County Tax"
+                        },
+                        {
+                            "channel_liable": false,
+                            "price": "0.02",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "0.02",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.02",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "rate": 0.005,
+                            "title": "Wake Co Tr"
+                        },
+                        {
+                            "channel_liable": false,
+                            "price": "0.23",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "0.23",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.23",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "rate": 0.0475,
+                            "title": "North Carolina State Tax"
+                        }
+                    ],
+                    "discount_allocations": []
+                }
+            ]
+        },
+        {
+            "id": 5902213480666,
+            "admin_graphql_api_id": "gid://shopify/Order/5902213480666",
+            "app_id": 580111,
+            "browser_ip": "2600:1004:a032:420b:8c93:4dcd:9894:8f6a",
+            "buyer_accepts_marketing": false,
+            "cancel_reason": null,
+            "cancelled_at": null,
+            "cart_token": "Z2NwLXVzLWNlbnRyYWwxOjAxSlJKTkNaWlBHTlE0WEdaM1pXMlRWS0Va",
+            "checkout_id": 36274789908698,
+            "checkout_token": "c9bc0b636c25c1d954194fbd5e802a9f",
+            "client_details": {
+                "accept_language": "en-US",
+                "browser_height": null,
+                "browser_ip": "2600:1004:a032:420b:8c93:4dcd:9894:8f6a",
+                "browser_width": null,
+                "session_hash": null,
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+            },
+            "closed_at": null,
+            "company": null,
+            "confirmation_number": "CP89YEP3N",
+            "confirmed": true,
+            "contact_email": "bgillon@gmail.com",
+            "created_at": "2025-04-11T10:53:29-04:00",
+            "currency": "USD",
+            "current_subtotal_price": "12.99",
+            "current_subtotal_price_set": {
+                "shop_money": {
+                    "amount": "12.99",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "12.99",
+                    "currency_code": "USD"
+                }
+            },
+            "current_total_additional_fees_set": null,
+            "current_total_discounts": "0.00",
+            "current_total_discounts_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "current_total_duties_set": null,
+            "current_total_price": "19.18",
+            "current_total_price_set": {
+                "shop_money": {
+                    "amount": "19.18",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "19.18",
+                    "currency_code": "USD"
+                }
+            },
+            "current_total_tax": "1.29",
+            "current_total_tax_set": {
+                "shop_money": {
+                    "amount": "1.29",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "1.29",
+                    "currency_code": "USD"
+                }
+            },
+            "customer_locale": "en-US",
+            "device_id": null,
+            "discount_codes": [],
+            "duties_included": false,
+            "email": "bgillon@gmail.com",
+            "estimated_taxes": false,
+            "financial_status": "paid",
+            "fulfillment_status": null,
+            "landing_site": "/",
+            "landing_site_ref": null,
+            "location_id": null,
+            "merchant_business_entity_id": "MTc1MjQ2NTM0ODc0",
+            "merchant_of_record_app_id": null,
+            "name": "#1002",
+            "note": null,
+            "note_attributes": [],
+            "number": 2,
+            "order_number": 1002,
+            "order_status_url": "https://brandongtest.myshopify.com/75246534874/orders/d134bb832584303881d5e6386a6f5532/authenticate?key=1f5cd43ffe871503918c8a4fee028f8a",
+            "original_total_additional_fees_set": null,
+            "original_total_duties_set": null,
+            "payment_gateway_names": [
+                "bogus"
+            ],
+            "phone": null,
+            "po_number": null,
+            "presentment_currency": "USD",
+            "processed_at": "2025-04-11T10:53:27-04:00",
+            "reference": null,
+            "referring_site": "",
+            "source_identifier": null,
+            "source_name": "web",
+            "source_url": null,
+            "subtotal_price": "12.99",
+            "subtotal_price_set": {
+                "shop_money": {
+                    "amount": "12.99",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "12.99",
+                    "currency_code": "USD"
+                }
+            },
+            "tags": "",
+            "tax_exempt": false,
+            "tax_lines": [
+                {
+                    "price": "0.36",
+                    "rate": 0.02,
+                    "title": "Wake County Tax",
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "0.36",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "0.36",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "channel_liable": false
+                },
+                {
+                    "price": "0.08",
+                    "rate": 0.005,
+                    "title": "Wake Co Tr",
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "0.08",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "0.08",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "channel_liable": false
+                },
+                {
+                    "price": "0.85",
+                    "rate": 0.0475,
+                    "title": "North Carolina State Tax",
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "0.85",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "0.85",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "channel_liable": false
+                }
+            ],
+            "taxes_included": false,
+            "test": true,
+            "token": "d134bb832584303881d5e6386a6f5532",
+            "total_cash_rounding_payment_adjustment_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "total_cash_rounding_refund_adjustment_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "total_discounts": "0.00",
+            "total_discounts_set": {
+                "shop_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "0.00",
+                    "currency_code": "USD"
+                }
+            },
+            "total_line_items_price": "12.99",
+            "total_line_items_price_set": {
+                "shop_money": {
+                    "amount": "12.99",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "12.99",
+                    "currency_code": "USD"
+                }
+            },
+            "total_outstanding": "0.00",
+            "total_price": "19.18",
+            "total_price_set": {
+                "shop_money": {
+                    "amount": "19.18",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "19.18",
+                    "currency_code": "USD"
+                }
+            },
+            "total_shipping_price_set": {
+                "shop_money": {
+                    "amount": "4.90",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "4.90",
+                    "currency_code": "USD"
+                }
+            },
+            "total_tax": "1.29",
+            "total_tax_set": {
+                "shop_money": {
+                    "amount": "1.29",
+                    "currency_code": "USD"
+                },
+                "presentment_money": {
+                    "amount": "1.29",
+                    "currency_code": "USD"
+                }
+            },
+            "total_tip_received": "0.00",
+            "total_weight": 1000,
+            "updated_at": "2025-04-11T10:53:30-04:00",
+            "user_id": null,
+            "billing_address": {
+                "first_name": "Christopher",
+                "address1": "1504 Surfbird Court",
+                "phone": null,
+                "city": "Raleigh",
+                "zip": "27615",
+                "province": "North Carolina",
+                "country": "United States",
+                "last_name": "Gillon",
+                "address2": null,
+                "company": null,
+                "latitude": null,
+                "longitude": null,
+                "name": "Christopher Gillon",
+                "country_code": "US",
+                "province_code": "NC"
+            },
+            "customer": {
+                "id": 7860595687642,
+                "email": "bgillon@gmail.com",
+                "created_at": "2025-04-11T10:53:27-04:00",
+                "updated_at": "2025-05-05T11:13:26-04:00",
+                "first_name": "Christopher",
+                "last_name": "Gillon",
+                "state": "disabled",
+                "note": null,
+                "verified_email": true,
+                "multipass_identifier": null,
+                "tax_exempt": false,
+                "phone": null,
+                "email_marketing_consent": {
+                    "state": "not_subscribed",
+                    "opt_in_level": "single_opt_in",
+                    "consent_updated_at": null
+                },
+                "sms_marketing_consent": null,
+                "tags": "",
+                "currency": "USD",
+                "tax_exemptions": [],
+                "admin_graphql_api_id": "gid://shopify/Customer/7860595687642",
+                "default_address": {
+                    "id": 9342625218778,
+                    "customer_id": 7860595687642,
+                    "first_name": "Brandon",
+                    "last_name": "Gillon",
+                    "company": null,
+                    "address1": "1504 Surfbird Court",
+                    "address2": null,
+                    "city": "Raleigh",
+                    "province": "North Carolina",
+                    "country": "United States",
+                    "zip": "27615",
+                    "phone": null,
+                    "name": "Brandon Gillon",
+                    "province_code": "NC",
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "default": true
+                }
+            },
+            "discount_applications": [],
+            "fulfillments": [],
+            "line_items": [
+                {
+                    "id": 14437734416602,
+                    "admin_graphql_api_id": "gid://shopify/LineItem/14437734416602",
+                    "attributed_staffs": [],
+                    "current_quantity": 1,
+                    "fulfillable_quantity": 1,
+                    "fulfillment_service": "manual",
+                    "fulfillment_status": null,
+                    "gift_card": false,
+                    "grams": 1000,
+                    "name": "Beach Towel - Yellow",
+                    "price": "12.99",
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "12.99",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "12.99",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "product_exists": true,
+                    "product_id": 8821887828186,
+                    "properties": [],
+                    "quantity": 1,
+                    "requires_shipping": true,
+                    "sku": "bch-twl-yl",
+                    "taxable": true,
+                    "title": "Beach Towel",
+                    "total_discount": "0.00",
+                    "total_discount_set": {
+                        "shop_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "0.00",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "variant_id": 46322090770650,
+                    "variant_inventory_management": "shopify",
+                    "variant_title": "Yellow",
+                    "vendor": "Towel Co.",
+                    "tax_lines": [
+                        {
+                            "channel_liable": false,
+                            "price": "0.26",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "0.26",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.26",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "rate": 0.02,
+                            "title": "Wake County Tax"
+                        },
+                        {
+                            "channel_liable": false,
+                            "price": "0.06",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "0.06",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.06",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "rate": 0.005,
+                            "title": "Wake Co Tr"
+                        },
+                        {
+                            "channel_liable": false,
+                            "price": "0.62",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "0.62",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.62",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "rate": 0.0475,
+                            "title": "North Carolina State Tax"
+                        }
+                    ],
+                    "duties": [],
+                    "discount_allocations": []
+                }
+            ],
+            "payment_terms": null,
+            "refunds": [],
+            "shipping_address": {
+                "first_name": "Christopher",
+                "address1": "1504 Surfbird Court",
+                "phone": null,
+                "city": "Raleigh",
+                "zip": "27615",
+                "province": "North Carolina",
+                "country": "United States",
+                "last_name": "Gillon",
+                "address2": null,
+                "company": null,
+                "latitude": 35.9003931,
+                "longitude": -78.66516020000002,
+                "name": "Christopher Gillon",
+                "country_code": "US",
+                "province_code": "NC"
+            },
+            "shipping_lines": [
+                {
+                    "id": 4799900877018,
+                    "carrier_identifier": null,
+                    "code": "Economy",
+                    "discounted_price": "4.90",
+                    "discounted_price_set": {
+                        "shop_money": {
+                            "amount": "4.90",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "4.90",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "is_removed": false,
+                    "phone": null,
+                    "price": "4.90",
+                    "price_set": {
+                        "shop_money": {
+                            "amount": "4.90",
+                            "currency_code": "USD"
+                        },
+                        "presentment_money": {
+                            "amount": "4.90",
+                            "currency_code": "USD"
+                        }
+                    },
+                    "requested_fulfillment_service_id": null,
+                    "source": "shopify",
+                    "title": "Economy",
+                    "tax_lines": [
+                        {
+                            "channel_liable": false,
+                            "price": "0.10",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "0.10",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.10",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "rate": 0.02,
+                            "title": "Wake County Tax"
+                        },
+                        {
+                            "channel_liable": false,
+                            "price": "0.02",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "0.02",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.02",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "rate": 0.005,
+                            "title": "Wake Co Tr"
+                        },
+                        {
+                            "channel_liable": false,
+                            "price": "0.23",
+                            "price_set": {
+                                "shop_money": {
+                                    "amount": "0.23",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.23",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "rate": 0.0475,
+                            "title": "North Carolina State Tax"
+                        }
+                    ],
+                    "discount_allocations": []
+                }
+            ]
+        }
+    ]
+}
