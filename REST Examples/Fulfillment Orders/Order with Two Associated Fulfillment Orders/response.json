@@ -1,0 +1,130 @@
+{
+    "fulfillment_orders": [
+        {
+            "id": 7051572576474,
+            "created_at": "2025-05-15T15:23:33-04:00",
+            "updated_at": "2025-05-15T15:23:33-04:00",
+            "shop_id": 75246534874,
+            "order_id": 5943684792538,
+            "assigned_location_id": 82363154650,
+            "request_status": "unsubmitted",
+            "status": "open",
+            "fulfill_at": "2025-05-15T15:00:00-04:00",
+            "fulfill_by": null,
+            "supported_actions": [
+                "create_fulfillment",
+                "move",
+                "hold"
+            ],
+            "destination": {
+                "id": 6566616400090,
+                "address1": "1504 Surfbird Court",
+                "address2": null,
+                "city": "Raleigh",
+                "company": null,
+                "country": "United States",
+                "email": "bgillon@gmail.com",
+                "first_name": "Christopher",
+                "last_name": "Gillon",
+                "phone": null,
+                "province": "North Carolina",
+                "zip": "27615"
+            },
+            "line_items": [
+                {
+                    "id": 14774735438042,
+                    "shop_id": 75246534874,
+                    "fulfillment_order_id": 7051572576474,
+                    "quantity": 1,
+                    "line_item_id": 14516956233946,
+                    "inventory_item_id": 48429594968282,
+                    "fulfillable_quantity": 1,
+                    "variant_id": 46329523896538
+                }
+            ],
+            "international_duties": null,
+            "fulfillment_holds": [],
+            "delivery_method": {
+                "id": 1183756714202,
+                "method_type": "shipping",
+                "min_delivery_date_time": null,
+                "max_delivery_date_time": null
+            },
+            "assigned_location": {
+                "address1": "",
+                "address2": "",
+                "city": "Rialto",
+                "country_code": "US",
+                "location_id": 82363154650,
+                "name": "California Warehouse",
+                "phone": "",
+                "province": "California",
+                "zip": "92316"
+            },
+            "merchant_requests": []
+        },
+        {
+            "id": 7051572609242,
+            "created_at": "2025-05-15T15:23:33-04:00",
+            "updated_at": "2025-05-15T15:23:33-04:00",
+            "shop_id": 75246534874,
+            "order_id": 5943684792538,
+            "assigned_location_id": 82362958042,
+            "request_status": "unsubmitted",
+            "status": "open",
+            "fulfill_at": "2025-05-15T15:00:00-04:00",
+            "fulfill_by": null,
+            "supported_actions": [
+                "create_fulfillment",
+                "move",
+                "hold"
+            ],
+            "destination": {
+                "id": 6566616432858,
+                "address1": "1504 Surfbird Court",
+                "address2": null,
+                "city": "Raleigh",
+                "company": null,
+                "country": "United States",
+                "email": "bgillon@gmail.com",
+                "first_name": "Christopher",
+                "last_name": "Gillon",
+                "phone": null,
+                "province": "North Carolina",
+                "zip": "27615"
+            },
+            "line_items": [
+                {
+                    "id": 14774735470810,
+                    "shop_id": 75246534874,
+                    "fulfillment_order_id": 7051572609242,
+                    "quantity": 1,
+                    "line_item_id": 14516956266714,
+                    "inventory_item_id": 48422044074202,
+                    "fulfillable_quantity": 1,
+                    "variant_id": 46322090705114
+                }
+            ],
+            "international_duties": null,
+            "fulfillment_holds": [],
+            "delivery_method": {
+                "id": 1183756746970,
+                "method_type": "shipping",
+                "min_delivery_date_time": null,
+                "max_delivery_date_time": null
+            },
+            "assigned_location": {
+                "address1": "",
+                "address2": "",
+                "city": "Raleigh",
+                "country_code": "US",
+                "location_id": 82362958042,
+                "name": "NC Warehouse",
+                "phone": "",
+                "province": "North Carolina",
+                "zip": "27615"
+            },
+            "merchant_requests": []
+        }
+    ]
+}
