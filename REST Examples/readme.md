@@ -1,0 +1,33 @@
+Per Shopify: The REST Admin API is a legacy API as of October 1, 2024. Starting April 1, 2025, all new public apps must be built exclusively with the GraphQL Admin API. For details and migration steps, visit our migration guide.
+
+Examples include:
+- <b>Locations</b>
+  - Retrieve
+  - Connect
+  - Disconnect
+- <b>Products</b>
+    - Create
+	    - w/Variants
+	    - w/o Variants
+  - Retrieve
+	  - All Products
+	  - Collection
+	  - List of Products
+	  - Modified Since Midnight
+	  - Specific Product w/o Variants
+	  - Specific Product w/Variants
+	  - Specific Fiels Only
+- <b>Inventory</b>
+  - Set
+  - Adjust
+- <b>Orders</b>
+  - All Unfulfilled Orders
+  - All Unfulfilled Orders Since a Specific Orders
+  - Specific Order with Gift Message + BT/ST Addresses Differ
+  - Unfulfilled Order with Two Fulfillment Orders
+- <b>Fulfillment Orders</b>
+  - Order with One Fulfillment Order
+  - Order with Two Fulfillment Orders
+- <b>Shipments</b>
+  - Partial Ship
+  - Full Ship
