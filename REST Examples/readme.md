@@ -16,7 +16,7 @@ Examples include:
 	  - Modified Since Midnight
 	  - Specific Product w/o Variants
 	  - Specific Product w/Variants
-	  - Specific Fiels Only
+	  - Specific Fields Only
 - <b>Inventory</b>
   - Set
   - Adjust
