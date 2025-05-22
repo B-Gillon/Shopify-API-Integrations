@@ -1,0 +1,31 @@
+{
+    "data": {
+        "productCreate": {
+            "product": {
+                "id": "gid://shopify/Product/8850885148890",
+                "title": "Big Beach Cooler",
+                "options": [
+                    {
+                        "id": "gid://shopify/ProductOption/11233981366490",
+                        "name": "Title",
+                        "values": [
+                            "Default Title"
+                        ]
+                    }
+                ]
+            },
+            "userErrors": []
+        }
+    },
+    "extensions": {
+        "cost": {
+            "requestedQueryCost": 11,
+            "actualQueryCost": 11,
+            "throttleStatus": {
+                "maximumAvailable": 2000,
+                "currentlyAvailable": 1989,
+                "restoreRate": 100
+            }
+        }
+    }
+}
