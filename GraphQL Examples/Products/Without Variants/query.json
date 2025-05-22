@@ -1,0 +1,23 @@
+mutation {
+  productCreate(input: {
+    title: "Big Beach Cooler",
+    descriptionHtml: "Double the size, double the beer!",
+    vendor: "Cooler Co.",
+    productType: "Coolers",
+    status: ACTIVE
+  }) {
+    product {
+      id
+      title
+      options {
+        id
+        name
+        values
+      }
+    }
+    userErrors {
+      field
+      message
+    }
+  }
+}
